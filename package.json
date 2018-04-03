@@ -1,0 +1,16 @@
+{
+  "name": "rilti-site",
+  "version": "1.0.0",
+  "description": "rilti.js website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rilti",
+    "docs",
+    "framework"
+  ],
+  "author": "Saul van der Walt",
+  "license": "GPL-3.0"
+}
